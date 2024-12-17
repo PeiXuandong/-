@@ -35,7 +35,7 @@
 
 ## 损失函数
 
-<img src="pics\LcGAN.png" alt="alt text" width="400">
+<img src="pics\Loss.png" alt="alt text" width="400">
 
 ### 实验结果
 训练集结果
@@ -56,12 +56,12 @@ epoch=200时
 
 打开界面时会进行自动描点
 
-<img src="pics/zdbd.png" alt="alt text" width="600">
+<img src="pics/point.png" alt="alt text" width="600">
 
 Smile：
 
-<img src="pics/wx.GIF" alt="alt text" width="400">
+<img src="pics/smile.GIF" alt="alt text" width="400">
 
 Thinning face：
 
-<img src="pics/sl.GIF" alt="alt text" width="400">
+<img src="pics/face.GIF" alt="alt text" width="400">
